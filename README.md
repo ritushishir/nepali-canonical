@@ -1,6 +1,6 @@
 # nepali-canonical
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 A definitive, open-source collection of Nepali words, place names, and administrative divisions for developers, data scientists, and content creators.
 
@@ -71,3 +71,11 @@ For example, to get a list of districts/municipalities in Bagmati Province, you 
   }
 }
 ```
+
+## 📄 License
+
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE) for the full text.
+
+You are free to use, share, and adapt it, including commercially, as long as you give credit. For example:
+
+> Data from [nepali-canonical](https://github.com/ritushishir/nepali-canonical), licensed under CC BY 4.0.

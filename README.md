@@ -1,4 +1,4 @@
-# Nepal-And-Nepali
+# nepali-canonical
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -71,7 +71,3 @@ For example, to get a list of districts/municipalities in Bagmati Province, you 
   }
 }
 ```
-
-# Links
-
-[Spreadsheet maintaining data](https://docs.google.com/spreadsheets/d/1ig3muD9fa02-UNPbKxWaCPCBaSTHnbRKqIqHg7mPWuo/edit)

@@ -1,18 +1,18 @@
 {
-	"namesNP": [
+	"names_in_nepali": [
 		"कोशी", "मधेश", "बागमती", "गण्डकी", "लुम्बिनी", "कर्णाली", "सुदूरपश्चिम"
 	],
-	"namesEN":[
+	"names_in_english":[
 			"Koshi", "Madhesh", "Bagmati", "Gandaki", "Lumbini", "Karnali", "Sudurpashchim"
 	],
-	"namesWithData":
+	"names_with_number_of_districts":
 	[
-		{ "nameNP": "कोशी", "nameEN": "Koshi", "numberOfDistricts": 14 },
-		{ "nameNP": "मधेश", "nameEN": "Madhesh", "numberOfDistricts": 8 },
-		{ "nameNP": "बागमती", "nameEN": "Bagmati", "numberOfDistricts": 13 },
-		{ "nameNP": "गण्डकी", "nameEN": "Gandaki", "numberOfDistricts": 11 },
-		{ "nameNP": "लुम्बिनी", "nameEN": "Lumbini", "numberOfDistricts": 12 },
-		{ "nameNP": "कर्णाली", "nameEN": "Karnali", "numberOfDistricts": 10 },
-		{ "nameNP": "सुदूरपश्चिम", "nameEN": "Sudurpashchim", "numberOfDistricts": 9 }
+		{ "name_in_nepali": "कोशी", "name_in_english": "Koshi", "number_of_districts": 14 },
+		{ "name_in_nepali": "मधेश", "name_in_english": "Madhesh", "number_of_districts": 8 },
+		{ "name_in_nepali": "बागमती", "name_in_english": "Bagmati", "number_of_districts": 13 },
+		{ "name_in_nepali": "गण्डकी", "name_in_english": "Gandaki", "number_of_districts": 11 },
+		{ "name_in_nepali": "लुम्बिनी", "name_in_english": "Lumbini", "number_of_districts": 12 },
+		{ "name_in_nepali": "कर्णाली", "name_in_english": "Karnali", "number_of_districts": 10 },
+		{ "name_in_nepali": "सुदूरपश्चिम", "name_in_english": "Sudurpashchim", "number_of_districts": 9 }
 	]
 }

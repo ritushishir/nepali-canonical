@@ -114,8 +114,8 @@
             "municipality_name_nepali": "मादी",
             "type": "Municipality",
             "type_nepali": "नगरपालिका",
-            "ward_count": 13,
-            "ward_count_nepali": "१३"
+            "ward_count": 9,
+            "ward_count_nepali": "९"
           },
           {
             "municipality_name_english": "Panchkhapan",
@@ -1680,8 +1680,8 @@
             "municipality_name_nepali": "मनरा शिसवा",
             "type": "Municipality",
             "type_nepali": "नगरपालिका",
-            "ward_count": 11,
-            "ward_count_nepali": "११"
+            "ward_count": 10,
+            "ward_count_nepali": "१०"
           },
           {
             "municipality_name_english": "Matihani",
@@ -2146,8 +2146,8 @@
             "municipality_name_nepali": "बारागढी",
             "type": "Rural Municipality",
             "type_nepali": "गाउँपालिका",
-            "ward_count": 11,
-            "ward_count_nepali": "११"
+            "ward_count": 6,
+            "ward_count_nepali": "६"
           },
           {
             "municipality_name_english": "Bishrampur",
@@ -3090,8 +3090,8 @@
             "municipality_name_nepali": "दोरम्बा शैलुङ",
             "type": "Rural Municipality",
             "type_nepali": "गाउँपालिका",
-            "ward_count": 8,
-            "ward_count_nepali": "८"
+            "ward_count": 7,
+            "ward_count_nepali": "७"
           },
           {
             "municipality_name_english": "Gokulganga",
@@ -4268,8 +4268,8 @@
             "municipality_name_nepali": "गौमुखी",
             "type": "Rural Municipality",
             "type_nepali": "गाउँपालिका",
-            "ward_count": 6,
-            "ward_count_nepali": "६"
+            "ward_count": 7,
+            "ward_count_nepali": "७"
           },
           {
             "municipality_name_english": "Jhimruk",
@@ -5763,8 +5763,8 @@
       }
     ]
   },
-  "Sudurpaschim": {
-    "province_name_english": "Sudurpaschim",
+  "Sudurpashchim": {
+    "province_name_english": "Sudurpashchim",
     "province_name_nepali": "सुदूरपश्चिम",
     "districts": [
       {
@@ -5820,12 +5820,12 @@
             "ward_count_nepali": "६"
           },
           {
-            "municipality_name_english": "Pandav Gufa",
-            "municipality_name_nepali": "पाण्डव गुफा",
+            "municipality_name_english": "Jagannath",
+            "municipality_name_nepali": "जगन्नाथ",
             "type": "Rural Municipality",
             "type_nepali": "गाउँपालिका",
-            "ward_count": 5,
-            "ward_count_nepali": "५"
+            "ward_count": 6,
+            "ward_count_nepali": "६"
           },
           {
             "municipality_name_english": "Swamikartik Khapar",
@@ -5836,8 +5836,8 @@
             "ward_count_nepali": "५"
           },
           {
-            "municipality_name_english": "Chhededaha",
-            "municipality_name_nepali": "छेडेदह",
+            "municipality_name_english": "Khaptad Chhededaha",
+            "municipality_name_nepali": "खप्तड छेडेदह",
             "type": "Rural Municipality",
             "type_nepali": "गाउँपालिका",
             "ward_count": 7,
@@ -5850,12 +5850,12 @@
         "district_name_nepali": "बझाङ",
         "municipalities": [
           {
-            "municipality_name_english": "Jagannath",
-            "municipality_name_nepali": "जगन्नाथ",
-            "type": "Rural Municipality",
-            "type_nepali": "गाउँपालिका",
-            "ward_count": 6,
-            "ward_count_nepali": "६"
+            "municipality_name_english": "Jaya Prithvi",
+            "municipality_name_nepali": "जयपृथ्वी",
+            "type": "Municipality",
+            "type_nepali": "नगरपालिका",
+            "ward_count": 11,
+            "ward_count_nepali": "११"
           },
           {
             "municipality_name_english": "Bungal",
@@ -5902,8 +5902,8 @@
             "municipality_name_nepali": "बित्थडचिर",
             "type": "Rural Municipality",
             "type_nepali": "गाउँपालिका",
-            "ward_count": 8,
-            "ward_count_nepali": "८"
+            "ward_count": 9,
+            "ward_count_nepali": "९"
           },
           {
             "municipality_name_english": "Surma",
@@ -6476,8 +6476,8 @@
             "ward_count_nepali": "१०"
           },
           {
-            "municipality_name_english": "Mahakali",
-            "municipality_name_nepali": "महाकाली",
+            "municipality_name_english": "Dodhara Chandani",
+            "municipality_name_nepali": "दोधारा चाँदनी",
             "type": "Municipality",
             "type_nepali": "नगरपालिका",
             "ward_count": 10,
